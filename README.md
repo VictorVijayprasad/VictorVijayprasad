@@ -27,13 +27,6 @@ background to the maximum.<br><br>
  <p  align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
   &nbsp;
-<img src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)" height="25"/>  
-  &nbsp;
- </p>
- 
- 
- 
-  <p  align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
@@ -44,6 +37,10 @@ background to the maximum.<br><br>
   &nbsp;
 
  </p>
+ 
+ 
+ 
+  
  
 
  </p>
