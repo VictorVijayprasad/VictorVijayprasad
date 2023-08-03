@@ -14,7 +14,7 @@ background to the maximum.<br><br>
 
   <br/>
   <div>
-
+### Stacks I work with
 <p  align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>  
   </p>
@@ -66,11 +66,45 @@ background to the maximum.<br><br>
 <div align="center" width=100%>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=VictorVijayprasad&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=VictorVijayprasad&theme=prussian&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVijayprasad&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
-
+### Leetcode  I Solved
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIJAYPRASAD?theme=nord&animation=true&font=Roboto%20Mono)]
 </div>
+
+### Git Activity
+
+<br/>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVijayprasad&theme=github_dark)
+  
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorVijayprasad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorVijayprasad&theme=github_dark)
+  
+<br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorVijayprasad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictorVijayprasad&theme=github_dark)
+  
+<br/>
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVijayprasad&layout=compact&theme=radical)]
+  
+<br/>
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVijayprasad&show_icons=true&theme=radical)
+  
+<br/>
+  
+</div>
+
+### Contributions
+  ![Snake animation](https://github.com/VictorVijayprasad/VictorVijayprasad/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
 
 
 **Visitors Count** 
