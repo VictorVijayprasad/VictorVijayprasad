@@ -23,8 +23,7 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{VictorVijayprasad}/count.svg) </div>
 
-# ⭐ Stats 
-<div align="center">
+
 
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
