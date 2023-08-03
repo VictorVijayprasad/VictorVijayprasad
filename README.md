@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
 
 
 # My Self: Victor
@@ -14,7 +14,7 @@ background to the maximum.<br><br>
 
   <br/>
   <div>
-### Stacks I work with
+Stacks I work with 
 <p  align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>  
   </p>
@@ -27,14 +27,15 @@ background to the maximum.<br><br>
  <p  align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
   &nbsp;
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>
+  &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
   &nbsp;
   
   &nbsp;
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>
-  &nbsp;
+ 
 
  </p>
  
