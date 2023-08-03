@@ -101,12 +101,6 @@ background to the maximum.<br><br>
   
 </div>
 
-### Contributions
-  ![Snake animation](https://github.com/VictorVijayprasad/VictorVijayprasad/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-
-
-
 **Visitors Count** 
 
 ![VisitorCount](https://profile-counter.glitch.me/{VictorVijayprasad}/count.svg) </div>
