@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+vijay+prasad;+An+Software+Engineer+;Data+Analyst+;An+UX+Designe+;">
 </p>
- 💫 Final year CSE student at R.M.K.Engineering College<br><br>💫 Currently learning Trending technologies <br><br> 💫 Passionate about implementing and launching new projects. Looking to start my career as an entry-level
+ 💫 Final year CSE student at R.M.K.Engineering College <br><br>💫 A passionate entry-level software engineer from India<br><br>💫 Currently learning Trending technologies <br><br> 💫 Passionate about implementing and launching new projects. Looking to start my career as an entry-level
 software engineer with a reputable company, where I can utilize my skills and business studies
 background to the maximum.<br><br>
 
