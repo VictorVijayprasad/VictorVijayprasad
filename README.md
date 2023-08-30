@@ -81,7 +81,7 @@ background to the maximum.<br><br>
   
 <br/>
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVijayprasad&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVijayprasad&show_icons=true&theme=radical)
   
 <br/>
   
