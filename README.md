@@ -1,7 +1,7 @@
 # Hey There 👋 ,
 ![Vijay Prasad Banner Image](./banner.png)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Vijay+Prasad+N;+An+Software+Engineer+;An+Data+Analyst+;An+UI/UX+Designer+;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi👋,+I'm+Vijay+Prasad+N;+An+Software+Engineer+;An+Data+Analyst+;An+UI/UX+Designer+;">
 </p>
 
  💫 Final year CSE student at R.M.K.Engineering College <br><br>💫 A passionate entry-level software engineer from India  <br><br>💫 Currently learning Trending technologies <br><br> 💫 Passionate about implementing and launching new projects. Looking to start my career as an entry-level
